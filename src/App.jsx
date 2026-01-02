@@ -1,3 +1,5 @@
-const App = function () {};
+function App() {
+  return <div></div>;
+}
 
 export default App;
