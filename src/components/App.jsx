@@ -1,5 +1,9 @@
 function App() {
-  return <div className='min-h-screen bg-gray-900 text-white'></div>;
+  return (
+    <div>
+      <h1>Hello, how are you doing today?</h1>
+    </div>
+  );
 }
 
 export default App;
